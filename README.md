@@ -7,7 +7,7 @@ This mechanism is used to specify which users will be allowed to view a process/
 This simple rule (HasProfileRule) allows a user with a given profile (configurable in bonita-tenants-custom.xml) to access the form/page.  
 An example of configuration using this rule can be found in the directory conf/ of this project.  
 
-For more information Refer to the [official documentation](https://documentation.bonitasoft.com/?page=custom-authorization-rule-mapping).
+For more information Refer to the [official documentation](https://documentation.ofelia.com/?page=custom-authorization-rule-mapping).
 
 ## Build
 Having a JDK 1.7 or > and Maven 3 installed Just run the command :  
